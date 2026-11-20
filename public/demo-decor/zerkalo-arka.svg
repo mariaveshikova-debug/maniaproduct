@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Арочное зеркало Арка">
+  <rect width="400" height="300" fill="#F4EFE5"/>
+  <ellipse cx="200" cy="258" rx="94" ry="12" fill="#493329" opacity="0.12"/>
+  <path d="M126 252V118a74 74 0 0 1 148 0v134z" fill="#31483C"/>
+  <path d="M139 239V118a61 61 0 0 1 122 0v121z" fill="#C08A43"/>
+  <path d="M144 234V118a56 56 0 0 1 112 0v116z" fill="#F4EFE5"/>
+  <path d="M145 154l92-76m-93 107 110-86" fill="none" stroke="#C08A43" stroke-width="8" opacity="0.19"/>
+  <path d="M163 222h74" stroke="#31483C" stroke-width="3" opacity="0.13"/>
+</svg>

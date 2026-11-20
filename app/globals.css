@@ -1,14 +1,17 @@
 @import "tailwindcss";
 @theme {
- --color-primary: #a5422b;
- --color-primary-hover: #86351f;
- --color-on-primary: #ffffff;
- --color-surface: #ffffff;
- --color-canvas: #f7f5f2;
- --color-muted: #eee9e2;
- --color-line: #d8d1c8;
- --color-ink: #25231f;
- --color-secondary: #625b52;
+ --color-primary: #31483C;
+ --color-brand-header: #354D3D;
+ --color-primary-hover: #26382F;
+ --color-on-primary: #F4EFE5;
+ --color-accent: #C08A43;
+ --color-on-accent: #31483C;
+ --color-surface: #F4EFE5;
+ --color-canvas: #F4EFE5;
+ --color-muted: color-mix(in srgb, #C08A43 12%, #F4EFE5);
+ --color-line: color-mix(in srgb, #493329 22%, transparent);
+ --color-ink: #493329;
+ --color-secondary: #493329;
  --color-danger: #a52121;
  --color-success: #276445;
  --radius-control: 0.65rem;
@@ -23,5 +26,6 @@ body { margin: 0; background: var(--color-canvas); color: var(--color-ink); font
 * { box-sizing: border-box; }
 button, input, select, textarea { font: inherit; }
 input, select, textarea { width:100%; border:1px solid var(--color-line); border-radius:var(--radius-control); padding:0.7rem; background:var(--color-surface); }
+.catalog-search input { padding-inline-start: 2.5rem; }
 a, button { touch-action: manipulation; }
 label { display:block; }

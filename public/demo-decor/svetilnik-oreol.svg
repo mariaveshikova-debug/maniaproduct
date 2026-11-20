@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Настольный светильник Ореол">
+  <rect width="400" height="300" fill="#F4EFE5"/>
+  <circle cx="200" cy="122" r="74" fill="#C08A43" opacity="0.22"/>
+  <path d="M134 126a66 66 0 0 1 132 0z" fill="#31483C"/>
+  <rect x="192" y="126" width="16" height="100" rx="8" fill="#493329"/>
+  <rect x="158" y="226" width="84" height="16" rx="8" fill="#493329"/>
+  <circle cx="200" cy="170" r="16" fill="#C08A43"/>
+</svg>

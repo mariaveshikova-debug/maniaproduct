@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Стеклянная чаша Прилив">
+  <rect width="400" height="300" fill="#F4EFE5"/>
+  <ellipse cx="200" cy="239" rx="114" ry="14" fill="#493329" opacity="0.12"/>
+  <path d="M75 128c8-11 29-19 58-22 25-2 43 5 67 5s42-7 67-5c29 3 50 11 58 22-15 58-62 98-125 98s-110-40-125-98z" fill="#31483C" fill-opacity="0.26" stroke="#31483C" stroke-width="4"/>
+  <path d="M75 128c18 11 39 5 63 4 23-1 35 10 62 10s39-11 62-10c24 1 45 7 63-4" fill="none" stroke="#31483C" stroke-width="4"/>
+  <path d="M109 154c15 25 38 44 64 53m118-53c-15 25-38 44-64 53" fill="none" stroke="#F4EFE5" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  <path d="M150 192c29 14 70 14 100 0" fill="none" stroke="#C08A43" stroke-width="3" opacity="0.72"/>
+</svg>

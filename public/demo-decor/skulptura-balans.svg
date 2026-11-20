@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Каменная скульптура Баланс">
+  <rect width="400" height="300" fill="#F4EFE5"/>
+  <ellipse cx="200" cy="251" rx="108" ry="14" fill="#493329" opacity="0.12"/>
+  <path d="M114 212c6-16 27-25 61-27l57-2c34 1 55 14 55 35 0 18-20 27-60 28l-66-2c-37-2-54-13-47-32z" fill="#493329"/>
+  <path d="M144 156c3-21 26-32 61-34 34-1 59 12 63 33 6 22-14 39-51 41l-23 1c-33 0-54-17-50-41z" fill="#31483C"/>
+  <path d="M171 101c0-24 23-39 50-40 25 0 40 14 38 34-2 21-21 34-51 36-22 1-37-10-37-30z" fill="#C08A43"/>
+  <path d="M185 94c7-12 21-18 37-18m-60 79c10-10 24-14 39-15m-68 76c10-8 27-12 47-13" fill="none" stroke="#F4EFE5" stroke-width="4" stroke-linecap="round" opacity="0.28"/>
+</svg>

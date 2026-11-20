@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Керамическая ваза Дюна">
+  <rect width="400" height="300" fill="#F4EFE5"/>
+  <ellipse cx="200" cy="258" rx="92" ry="14" fill="#493329" opacity="0.12"/>
+  <path d="M166 74h68l-8 24c22 18 34 48 34 84 0 48-26 76-60 76s-60-28-60-76c0-36 12-66 34-84l-8-24z" fill="#C08A43"/>
+  <path d="M166 74h68l-8 24h-52l-8-24z" fill="#493329" opacity="0.35"/>
+  <path d="M148 178c14 12 88 12 104 0" fill="none" stroke="#493329" stroke-width="4" opacity="0.25"/>
+  <path d="M200 98v142" stroke="#F4EFE5" stroke-width="6" opacity="0.35"/>
+</svg>

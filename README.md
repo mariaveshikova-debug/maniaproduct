@@ -10,7 +10,7 @@ npm ci
 npm run dev
 ```
 
-Откройте адрес из терминала (обычно http://localhost:3000). PowerShell: при блокировке npm.ps1 используйте npm.cmd. Для Git откройте второй терминал. Измените заголовок в app/page.tsx и цвет --color-primary в app/globals.css руками.
+Откройте адрес из терминала (обычно http://localhost:3000). PowerShell: при блокировке npm.ps1 используйте npm.cmd для всех команд ниже. Для Git откройте второй терминал. Главная уже содержит витрину «ЛАД» с восемью демо-товарами и поиском; палитра задана токенами в app/globals.css и описана в DESIGN.md — руками её менять не нужно.
 
 ## Проверки
 ```text
@@ -21,14 +21,14 @@ npx playwright install chromium
 npm run test:e2e
 ```
 
-CI запускает эти же проверки на push/PR. E2E поднимает свой сервер на 3100. Smoke-тест — пример инструмента, не закрывает будущий сценарий КТ-4.
+CI запускает эти же проверки на push/PR. E2E поднимает свой сервер на 3100. Тесты проверяют серверный маршрут, адаптивную шапку, витрину из восьми карточек и поиск. Сценарий покупки появится в следующих итерациях.
 
 ## Карта
 - app/page.tsx — старт; app/api/health/route.ts — серверный маршрут для Network.
 - components/course-card.tsx — компонент с props для МЗ-2, не button.tsx.
 - components/ui/button.tsx — локальная адаптация shadcn/ui на Radix с asChild.
 - app/globals.css — токены Tailwind 4 через @theme.
-- PRODUCT.md, CLAUDE.md, DESIGN.md, DECISIONS.md — заполнить под свой продукт.
+- PRODUCT.md, CLAUDE.md, DESIGN.md, DECISIONS.md — продукт, правила разработки, палитра и принятые решения.
 - tests/unit и tests/e2e, .github/workflows/ci.yml — работающие примеры проверок.
 - docs и supabase/migrations — заготовки следующей работы.
 

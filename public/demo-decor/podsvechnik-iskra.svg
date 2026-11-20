@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Подсвечник Искра">
+  <rect width="400" height="300" fill="#F4EFE5"/>
+  <ellipse cx="200" cy="252" rx="90" ry="13" fill="#493329" opacity="0.12"/>
+  <rect x="185" y="107" width="30" height="69" rx="6" fill="#F4EFE5" stroke="#C08A43" stroke-width="3"/>
+  <path d="M201 48c2 15 15 23 15 36 0 9-7 15-16 15s-15-6-15-15c0-12 11-20 16-36z" fill="#C08A43"/>
+  <path d="M200 74c1 7 7 10 7 15a7 7 0 0 1-14 0c0-5 5-9 7-15z" fill="#F4EFE5" opacity="0.7"/>
+  <path d="M157 168h86c-4 16-17 26-35 29v23c19 2 38 10 45 22H147c7-12 26-20 45-22v-23c-18-3-31-13-35-29z" fill="#C08A43"/>
+  <path d="M157 171h86m-86 69h86" fill="none" stroke="#493329" stroke-width="5" stroke-linecap="round" opacity="0.35"/>
+</svg>
