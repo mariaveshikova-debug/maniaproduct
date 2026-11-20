@@ -5,7 +5,7 @@ export default function Home() {
     <HomeStorefront>
       <section className="py-8 text-center sm:py-10" aria-labelledby="hero-title">
         <h1 id="hero-title" className="text-display font-semibold text-primary">
-          Дом вверх дном
+          Дом в ладу
         </h1>
         <p className="mx-auto mt-2 max-w-2xl text-title font-semibold text-ink">
           Предметы, которые делают дом гармоничным
